@@ -18,3 +18,4 @@ let a =  [1, 12, 15, 26, 38];
 let b = [2, 13, 17, 30, 45, 47];
 let result = medianOf2arraya(a,b)
 console.log(result);
+
